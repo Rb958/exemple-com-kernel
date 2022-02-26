@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<signalRegistry>
+    <Kernel>Exemple</Kernel>
+    <SignalTypeEntries type="security-encrypt" kernelName="Security"/>
+    <SignalTypeEntries type="security-decrypt" kernelName="Security"/>
+    <SignalTypeEntries type="security-genkey-asym" kernelName="Security"/>
+    <SignalTypeEntries type="security-genkey-sym" kernelName="Security"/>
+</signalRegistry>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<databasedef>
+    <connections>
+        <connection databaseName="exemple_db">
+            <username>root</username>
+            <password>cm-uds-15sci0973</password>
+            <driverClass>com.mysql.cj.jdbc.Driver</driverClass>
+            <connectionUrl>jdbc:mysql://localhost:3306/exemple_db</connectionUrl>
+            <dialect>org.hibernate.dialect.MySQL8Dialect</dialect>
+            <tls>true</tls>
+            <verifyCert>false</verifyCert>
+            <poolSize>1</poolSize>
+            <autoCommit>true</autoCommit>
+            <autoReconnect>true</autoReconnect>
+            <auto>update</auto>
+        </connection>
+    </connections>
+</databasedef>

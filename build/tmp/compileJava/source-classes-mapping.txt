@@ -1,0 +1,32 @@
+example/repository/RoleRepository.java
+ example.repository.RoleRepository
+example/repository/UserRepository.java
+ example.repository.UserRepository
+example/exeception/BadDBConfigurationException.java
+ example.exeception.BadDBConfigurationException
+example/entity/EntityUtility.java
+ example.entity.EntityUtility
+example/Main.java
+ example.Main
+example/kernel/ExampleKernel.java
+ example.kernel.ExampleKernel
+example/signal/EncryptionSignal.java
+ example.signal.EncryptionSignal
+example/manager/UserManager.java
+ example.manager.UserManager
+example/model/KeySpecicication.java
+ example.model.KeySpecicication
+example/service/RoleService.java
+ example.service.RoleService
+example/entity/User.java
+ example.entity.User
+example/entity/Role.java
+ example.entity.Role
+example/signal/payloaddef/EncryptRequestParameter.java
+ example.signal.payloaddef.EncryptRequestParameter
+example/service/UserService.java
+ example.service.UserService
+example/manager/RoleManager.java
+ example.manager.RoleManager
+example/kernel/ExampleKernelFactory.java
+ example.kernel.ExampleKernelFactory
